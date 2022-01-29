@@ -7,7 +7,7 @@ void draw(void *u, int w, int h)
 
     for (int y=0;y<h;y++)
     {
-        for (int)
+        
     }
 }
 void envolution(void *u, int w, int h)
